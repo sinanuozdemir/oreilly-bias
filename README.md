@@ -12,7 +12,7 @@ We use tools including TorchDrift, Scikit-learn, and Transformers to build and s
 
 [Preprocessing](notebooks/preprocessing.ipynb)
 
-[Inprocessing](notebooks/inrpcoessing.ipynb)
+[Inprocessing](notebooks/inprocessing.ipynb)
 
 [Bias in LLMs](notebooks/llm_bias.ipynb)
 
