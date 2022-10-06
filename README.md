@@ -3,7 +3,7 @@
 # Algorithmic Bias in Machine Learning
 
 
-This repository contains code for the [O'Reilly Live Online Training for Algorithmic Bias in Machine Learning](https://learning.oreilly.com/live-events/algorithmic-bias-in-machine-learning/0636920080193/0636920080192//)
+This repository contains code for the [O'Reilly Live Online Training for Algorithmic Bias in Machine Learning](https://learning.oreilly.com/live-events/algorithmic-bias-in-machine-learning/0636920080193/0636920080192)
 
 This training provides an overview to identifying and mitigating bias in structured and unstructured data. Learn definitions of biases and methodologies to identify biases in data. This session is a healthy mix of theoretical and practical hands-on coding with biased data.
 
